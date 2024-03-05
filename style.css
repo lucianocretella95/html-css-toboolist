@@ -8,8 +8,6 @@ header{
     height: 100px;
     background-color:white;
     font-weight: 800;
-    background-image: url(./img/Logo.png);
-    background-repeat: no-repeat;
 }
 main{
     margin-top: 25px;
