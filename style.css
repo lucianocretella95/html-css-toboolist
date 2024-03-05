@@ -3,17 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 header{
     height: 100px;
     background-color:white;
     font-weight: 800;
+    background-image: url(./img/Logo.png);
+    background-repeat: no-repeat;
+}
+h1{
+    margin: left 50px;
 }
 main{
     margin-top: 25px;
-    text-align: center;
+    text-align: left;
 }
-
-.button{
-    background-color: blue;
-    border-radius: 50%;
+.container{
+    text-align: center;
 }
