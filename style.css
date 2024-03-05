@@ -11,9 +11,6 @@ header{
     background-image: url(./img/Logo.png);
     background-repeat: no-repeat;
 }
-h1{
-    margin: left 50px;
-}
 main{
     margin-top: 25px;
     text-align: left;
